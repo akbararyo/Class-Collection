@@ -1,0 +1,6 @@
+D:\18.11.2314\#10\List(array)\Latihan2\obj\Debug\Latihan2.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#10\List(array)\Latihan2\bin\Debug\Latihan2.exe.config
+D:\18.11.2314\#10\List(array)\Latihan2\bin\Debug\Latihan2.exe
+D:\18.11.2314\#10\List(array)\Latihan2\bin\Debug\Latihan2.pdb
+D:\18.11.2314\#10\List(array)\Latihan2\obj\Debug\Latihan2.exe
+D:\18.11.2314\#10\List(array)\Latihan2\obj\Debug\Latihan2.pdb

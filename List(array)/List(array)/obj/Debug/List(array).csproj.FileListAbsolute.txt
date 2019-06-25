@@ -1,0 +1,7 @@
+D:\18.11.2314\#10\List(array)\List(array)\obj\Debug\List(array).csprojAssemblyReference.cache
+D:\18.11.2314\#10\List(array)\List(array)\obj\Debug\List(array).csproj.CoreCompileInputs.cache
+D:\18.11.2314\#10\List(array)\List(array)\bin\Debug\List(array).exe.config
+D:\18.11.2314\#10\List(array)\List(array)\bin\Debug\List(array).exe
+D:\18.11.2314\#10\List(array)\List(array)\bin\Debug\List(array).pdb
+D:\18.11.2314\#10\List(array)\List(array)\obj\Debug\List(array).exe
+D:\18.11.2314\#10\List(array)\List(array)\obj\Debug\List(array).pdb
